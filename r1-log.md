@@ -10,4 +10,6 @@ Primitive data types in Java. https://github.com/chris-malloy/java101
 ### R1D2
 More Primitive data types: floats and doubles. https://github.com/chris-malloy/java101
 
+### R1D3
+Porfolio update. Changed featured projects, adjusted layout. https://chrismalloy.net/
 
