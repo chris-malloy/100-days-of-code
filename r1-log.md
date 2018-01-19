@@ -14,7 +14,7 @@ More Primitive data types: floats and doubles. [repo](https://github.com/chris-m
 Porfolio update. Changed featured projects, adjusted layout. https://chrismalloy.net/
 
 ### R1D4
-Porfolio update. Added resume, need to figure out materialize-icons issue. https://chrismalloy.net5
+Porfolio update. Added resume, need to figure out materialize-icons issue. https://chrismalloy.net
 
 ### R1D5
 Intro to Aria concepts [repo](https://github.com/chris-malloy/aria101)
