@@ -22,3 +22,6 @@ Intro to Aria concepts [repo](https://github.com/chris-malloy/aria101)
 ### R1D6
 Aria research. Topic: three primary documents that govern aria. [repo](https://github.com/chris-malloy/aria101)
 
+### R1D7
+Aria research. Topic: css in aria and drag and drop elements in aria. [repo](https://github.com/chris-malloy/aria101)
+
