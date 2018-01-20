@@ -19,3 +19,6 @@ Porfolio update. Added resume, need to figure out materialize-icons issue. https
 ### R1D5
 Intro to Aria concepts [repo](https://github.com/chris-malloy/aria101)
 
+### R1D6
+Aria research. Topic: three primary documents that govern aria. [repo](https://github.com/chris-malloy/aria101)
+
