@@ -29,7 +29,7 @@ Aria research. Topic: css in aria and drag and drop elements in aria. [repo](htt
 Added nodemailer to portfolio.  Need to make mail form next. [portfolio](https://chrismalloy.net/)
 
 ### R1D9
-Object Oriented Programming in Java [repo](https://github.com/chris-malloy/java101)
+Object Oriented Programming in Java. [repo](https://github.com/chris-malloy/java101)
 
 ### R1D10
 Redux review day. Made a web app that counts. [repo](https://github.com/chris-malloy/ReduxCounter)
