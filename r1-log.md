@@ -33,5 +33,5 @@ Object Oriented Programming in Java [repo](https://github.com/chris-malloy/java1
 
 ### R1D10
 Redux review day. Made a web app that counts. [repo](https://github.com/chris-malloy/ReduxCounter)
-Also made a list app in react-native [reop](https://github.com/chris-malloy/Listify)
+Also made a list app in react-native [repo](https://github.com/chris-malloy/Listify)
 
