@@ -50,3 +50,6 @@ Worked on Listify App [repo](https://github.com/chris-malloy/Listify)
 ### R1D15
 Worked on Listify App [repo](https://github.com/chris-malloy/Listify)
 
+### R1D16
+Initialized Api server for Listify [repo](https://github.com/chris-malloy/list-app-api)
+
