@@ -53,3 +53,6 @@ Worked on Listify App [repo](https://github.com/chris-malloy/Listify)
 ### R1D16
 Initialized Api server for Listify [repo](https://github.com/chris-malloy/list-app-api)
 
+### R1D17
+Composition in java. [repo](https://github.com/chris-malloy/java101)
+
