@@ -56,3 +56,6 @@ Initialized Api server for Listify [repo](https://github.com/chris-malloy/list-a
 ### R1D17
 Composition in java. [repo](https://github.com/chris-malloy/java101)
 
+### R1D18
+Encapsulation in java. [repo](https://github.com/chris-malloy/java101)
+
